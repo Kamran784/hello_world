@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohaan240&label=Profile%20views&color=0e75b6&style=flat" alt="rohaan240" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohaan240" alt="rohaan240" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kamran784" alt="Kamran784" /></a> </p>
 
 - 🌱 I’m currently learning *Digital Maketing Course*
 
